@@ -3,8 +3,12 @@ This is project 3
 
 My Video Link: https://youtu.be/JAbYd5YA1_4
 
+
+
 growPointScript.cs:
 <img width="729" alt="Screenshot 2023-11-24 at 13 06 52" src="https://github.com/VilmaHE0601/UnitySimulation/assets/146425185/41b678a1-d4d6-491d-9184-63ffc31a1dba">
+
+
 
 
 scr.cs:
